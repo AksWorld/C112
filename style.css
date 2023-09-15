@@ -1,0 +1,18 @@
+body{
+    background-color: tan;
+}
+#camera,#result{
+    height: 300px;
+    width:350px;
+    border-style: dashed;
+}
+#header{
+    height:60px;
+    width:400px;
+    border-radius: 20px;
+    background-color:red;
+}
+#image_capture{
+    border-radius: 20px;
+    background-color: lightblue;
+}
